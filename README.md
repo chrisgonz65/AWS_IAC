@@ -1,2 +1,2 @@
 # AWS_IAC
-Terraofrm deployments
+Terraform deployments
